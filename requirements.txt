@@ -1,0 +1,11 @@
+requests
+pandas
+numpy
+nltk
+matplotlib
+torch 
+transformers
+datasets
+evaluate
+accelerate
+gensim
